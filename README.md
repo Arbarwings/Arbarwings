@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Arbarwings/Arbarwings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Melvin Oostendorp, Full-Stack developer from the Netherlands. I love working with the latest technologies and learning about it.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 &nbsp; ReactJS | JavaScript | HTML | CSS
+- 💻 &nbsp; C# | PHP | Python
+- 🐳 &nbsp; Docker | Kubernetes
+- 🔧 &nbsp; Git | Markdown | WordPress
+- 🎨 &nbsp; Photoshop | Illustrator | InDesign
+
+## Get In Touch
+
+Visit my website for more information: [melvinoostendorp.nl](https://melvinoostendorp.nl)
