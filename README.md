@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Melvin Oostendorp, Full-Stack developer from the Netherlands. I love working with the latest technologies and learning about it.
+I'm Melvin Oostendorp, a Full-Stack developer from the Netherlands. I love working with the latest technologies and learning about it.
 
 ## Tech Stack
 
