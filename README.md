@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Melvin Oostendorp, a Full-Stack developer from the Netherlands. I'm a passionate about creating user-friendly and scalable applications. Leading teams of developers to help them write and ship better software with a great development experience. I enjoy working with the latest technologies and making sure that every part of the application is covered in an automated testing pipeline.
+I'm Melvin Oostendorp, a Full-Stack developer from the Netherlands. I'm passionate about creating user-friendly and scalable applications. Leading teams of developers to help them write and ship better software with a great development experience. I enjoy working with the latest technologies and making sure that every part of the application is covered in an automated testing pipeline.
 
 ## Tech Stack
 
