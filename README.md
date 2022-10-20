@@ -4,7 +4,7 @@ I'm Melvin Oostendorp, a Full-Stack developer from the Netherlands. I'm passiona
 
 ## Tech Stack
 
-- 🌐 &nbsp; ReactJS | TypeScript | JavaScript | HTML | CSS
+- 🌐 &nbsp; ReactJS | TypeScript | JavaScript | Redux | Storybook | Tailwind | HTML | CSS
 - 💻 &nbsp; C# | PHP | Python
 - 🐳 &nbsp; Docker | Kubernetes
 - 🔧 &nbsp; Git | Markdown | WordPress
